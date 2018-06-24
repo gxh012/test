@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-		<string>shuobo Xiao</string>
+		<string>com.ss.iphone.ugc.Aweme</string>
                 <key>bundle-version</key>
                 <string>1.8.7</string>
                 <key>kind</key>
